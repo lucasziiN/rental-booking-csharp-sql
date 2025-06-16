@@ -46,7 +46,7 @@ EquipEase/
 ## 🛠️ Setup & Run Locally
 1. Clone the Repository
 ```plaintext
-git clone https://github.com/yourusername/EquipEase.git
+git clone https://github.com/lucasziiN/EquipEase.git
 cd EquipEase
 ```
 2. Configure Database
